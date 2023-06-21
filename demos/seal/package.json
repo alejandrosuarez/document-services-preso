@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@adobe/jwt-auth": "^1.0.1",
+    "@adobe/jwt-auth": "^2.0.0",
     "dotenv": "^16.0.3",
     "node-fetch": "^2.6.7"
   }
