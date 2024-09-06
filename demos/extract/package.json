@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@adobe/pdfservices-node-sdk": "^2.0.0",
+    "@adobe/pdfservices-node-sdk": "^4.0.0",
     "adm-zip": "^0.5.9",
     "csvtojson": "^2.0.10",
     "dotenv": "^16.0.2",
